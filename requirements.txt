@@ -1,0 +1,15 @@
+bcrypt==5.0.0
+cffi==2.0.0
+colorama==0.4.6
+coverage==7.11.0
+cryptography==46.0.2
+fernet==1.0.1
+iniconfig==2.3.0
+packaging==25.0
+pluggy==1.6.0
+pyaes==1.6.1
+pycparser==2.23
+pycryptodome==3.23.0
+Pygments==2.19.2
+pytest==8.4.2
+pytest-cov==7.0.0
